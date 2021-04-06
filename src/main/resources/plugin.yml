@@ -1,0 +1,9 @@
+name: MelonenCB
+version: ${project.version}
+main: de.meloneoderso.melonencb.MelonenCB
+api-version: 1.16
+authors: [ MELONEODERSO ]
+description: CBsystem
+commands:
+
+
